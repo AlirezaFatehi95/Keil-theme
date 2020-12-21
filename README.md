@@ -1,6 +1,6 @@
 # Keil-theme
-A dark theme for Keil v5.27 c/c++ editor
+A dark theme for Keil v5 c/c++ editor
 ![Screenshot](Screenshot.png)
-
-1. make sure u have a backup of the original "global.prop" file under "[installed repository]\Keil_v5\UV4"
-2. copy and replace the "global.prop" available in this repository with the original one
+1. if you have a file named "global.prop" under "[installed drive]\Keil_v5\UV4", make a copy of it
+2. copy the "global.prop" available in this repository to "[installed drive]\Keil_v5\UV4"
+3. relaunch Keil

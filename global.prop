@@ -77,19 +77,19 @@ template.cpp="#define","#define |";"#if","#if |\r\n\r\n#endif";\\
     
 font.monospace.cpp=Courier New
 style.cpp.32=font:Courier New,size:10,fore:#F6F6F4,back:#282A36
-style.cpp.4=font:Courier New,size:10,fore:#BF7FA7,back:#282A36
+style.cpp.4=font:Courier New,size:10,fore:#CE7181,back:#282A36
 style.cpp.10=font:Courier New,size:10,fore:#F2D612,back:#282A36
-style.cpp.1=font:Courier New,size:10,fore:#7B7F81,back:#282A36
-style.cpp.2=font:Courier New,size:10,fore:#7B7F81,back:#282A36
-style.cpp.5=font:Courier New,size:10,fore:#62E884,back:#282A36
-style.cpp.6=font:Courier New,size:10,fore:#E6DB74,back:#282A36
-style.cpp.11=font:Courier New,size:10,fore:#F6F6F4,back:#282A36
+style.cpp.1=font:Courier New,size:10,fore:#37A6C6,back:#282A36
+style.cpp.2=font:Courier New,size:10,fore:#37A6C6,back:#282A36
+style.cpp.5=font:Courier New,size:10,fore:#31D314,back:#282A36
+style.cpp.6=font:Courier New,size:10,fore:#EAE41C,back:#282A36
+style.cpp.11=font:Courier New,size:10,fore:#F0F0C8,back:#282A36
 style.cpp.9=font:Courier New,size:10,fore:#F92672,back:#282A36
-style.cpp.7=font:Courier New,size:10,fore:#E6DB74,back:#282A36
+style.cpp.7=font:Courier New,size:10,fore:#F5FC0C,back:#282A36
 style.cpp.34=font:Courier New,size:10,fore:#A8FF51,back:#F32C8A
 style.cpp.35=font:Courier New,size:10,fore:#F6F6F4,back:#282A36
 style.cpp.16=font:Courier New,size:10,fore:#66D9EF,back:#282A36
-style.cpp.12=font:Courier New,size:10,fore:#000000,back:#E0C0E0
+style.cpp.12=font:Courier New,size:10,fore:#F40416,back:#282A36
 style.cpp.86=font:Courier New,size:10,fore:#696969,back:#333333
 
 
